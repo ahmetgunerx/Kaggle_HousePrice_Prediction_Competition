@@ -1,1 +1,1 @@
-# kaggle-house-price-prediction-competition
+# kaggle house price prediction competition
